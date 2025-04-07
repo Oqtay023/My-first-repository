@@ -1,0 +1,49 @@
+a:hover {
+    background-color: rgb(2, 14, 80);
+    font-size: 25px;
+    transition-duration: 0.3s;}
+a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+body {
+    background-image: url("toradora.jpg");
+}
+
+.center {
+    text-align: center;
+
+}
+
+.color {
+    font-size: 30px;
+    color: white;
+
+}
+
+.genre {
+    color: aliceblue;
+    background-color: rgba(7, 7, 74, 0.655);
+    font-size: 40px;
+    padding: 20px;
+}
+
+.books {
+    color: white;
+    border-color: black;
+    border-style: solid;
+    background-image: url("toradora.avif");
+    font-size: 25px;
+    padding: 5px;
+}
+
+.info {
+    color: white;
+    border-color: black;
+    border-style: solid;
+    background-image: url("toradora.avif");
+    font-size: 20px;
+    padding: 5px;
+}
